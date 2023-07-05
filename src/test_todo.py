@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 #!/usr/bin/env python
+__author__='MarkiyanPyts'
+__author_email__='markiyan.pyts@gmail.com'
+
 import click
 
 @click.group

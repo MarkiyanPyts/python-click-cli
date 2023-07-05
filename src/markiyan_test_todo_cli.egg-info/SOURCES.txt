@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+mytodo.txt
+pyproject.toml
+setup.py
+src/__init__.py
+src/test_todo.py
+src/markiyan_test_todo_cli.egg-info/PKG-INFO
+src/markiyan_test_todo_cli.egg-info/SOURCES.txt
+src/markiyan_test_todo_cli.egg-info/dependency_links.txt
+src/markiyan_test_todo_cli.egg-info/entry_points.txt
+src/markiyan_test_todo_cli.egg-info/requires.txt
+src/markiyan_test_todo_cli.egg-info/top_level.txt
+tests/test_code.py
